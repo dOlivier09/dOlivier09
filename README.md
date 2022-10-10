@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dOlivier09
+- 👋 Hi, I’m Dom
 - 👀 I’m interested in formula 1, IMSA, and tech in particular the machine learning and A.I. fields.
 - 🌱 I’m currently learning programming using python, javascript, angular, and also data science using programing languages. 
 
