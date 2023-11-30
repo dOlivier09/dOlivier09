@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dom
-- 👀 I’m interested in formula 1, IMSA, and tech in particular the machine learning and A.I. fields.
+- 👀 I’m an aspiring coder with interests into data science and machine learning. I'm also interested in motorsports such as F1, IMSA and WEC. 
 - 🌱 I’m currently learning programming using python, javascript, angular, and also data science using programing languages. 
 
 
